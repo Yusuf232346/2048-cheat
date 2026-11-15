@@ -1,3 +1,6 @@
+[![Play 2048 God Mode](https://img.shields.io/badge/🎮_Play_Now!-Launch_Game-ff5722?style=for-the-badge&logoColor=white)](https://yusuf232346.github.io/2048-hile/)
+[![Download ZIP](https://img.shields.io/badge/📥_Download_ZIP-Get_Source_Code-2ea44f?style=for-the-badge&logoColor=white)](https://github.com/Yusuf232346/2048-cheat/archive/refs/heads/main.zip)
+
 # 🎮 2048 - God Mode (Cheat Edition)
 
 This is a modified, highly portable version of the classic 2048 game featuring a custom **God Mode cheat menu** for tile manipulation and high scores!
